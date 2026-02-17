@@ -1,0 +1,108 @@
+Equipo,Actividad,Aspecto Ambiental,Impacto ambiental,Magnitud,Frecuencia,Probabilidad,Regulaciones Aplicables,Puntuación total,Significancia (Si/No),Criterio de significancia,Medidas de control/acción,Responsable,Legislación aplicable,Requerimiento legal
+B-110,Almacenamiento de cloro gas,Emisión de gases tóxicos,"Contaminación del área de trabajo, intoxicación de los colaboradores",3.0,1.0,2.0,5,30,Si,>10,"Agregar medidor de presión, controlador de presión y válvulas de control y de seguridad, así como sus respectivos planes de mantenimiento. ",Mantenimiento,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+B-110,,Uso de agua para enfriamiento,Generación de aguas residuales,3.0,3.0,3.0,3,81,Si,>10,"Plan de manejo de aguas, implementación de PTAR",Encargado del SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+B-120,Almacenamiento de gas hidrógeno,Emisión de gases tóxicos,"Contaminación del área de trabajo, intoxicación de los colaboradores",3.0,1.0,2.0,5,30,Si,>10,"Agregar medidor de presión, controlador de presión y válvulas de control y de seguridad, así como sus respectivos planes de mantenimiento. ",Mantenimiento,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+B-120,,Uso de agua para enfriamiento,Generación de aguas residuales,3.0,3.0,3.0,3,81,Si,>10,"Plan de manejo de aguas, implementación de PTAR",Encargado del SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+R-110,Mezclado de gases,Emisión de gases tóxicos,"Contaminación del área de trabajo, intoxicación de los colaboradores y explosiones.",3.0,1.0,1.0,5,15,Si,>10,"Agregar medidores de presión y flujo, control en cascada (presión-flujo), válvulas de control y de seguridad, planes de mantenimiento, bitácora de mantenimiento, implementación de brigadas (contra incendios, primeros auxilios), verificar rutas de evacuación. ",Mantenimiento,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+C-110,Reacción de síntesis de HCl,Emisión de gases tóxicos,"Contaminación del área de trabajo, intoxicación de los colaboradores y explosiones.",3.0,2.0,1.0,7,42,Si,>10,"Agregar medidores de presión, temperatura y flujo, controladores de presión, temperatura y flujo, válvulas de control y de alivio. Planes de mantenimiento y monitoreo, bitácora de mantenimiento, implementación de brigadas (contra incendios y primeros auxilios), plan de simulacros, implementación de señalética para rutas de evacuación, análisis químico periódico de atmosfera laboral, plan de manejo de aguas. ",SGA,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+C-110,,Uso de agua para enfriamiento,Generación de aguas residuales,3.0,3.0,3.0,3,81,Si,>10,"Implementar medidores de flujo, controlador de flujo y válvula de control. Plan de manejo de aguas, PTAR. ",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+C-110,,Generación de residuos (gases),Generación de gases residuales contaminantes,3.0,1.0,3.0,2,18,Si,>10,"Implementar medidores de presión, control de presión, válvula de control, válvula de alivio. Análisis químico de la atmosfera laboral, planes de mantenimiento y monitoreo, ventilación y señalética adecuadas. ",SGA,"LGPGIR y su Reglamento, NOM-052-SEMARNAT-2005","1. Alta de Generador de Residuos Peligrosos (SEMARNAT)
+2. Bitácoras y manifiestos de disposición
+3. Almacén temporal conforme a Norma"
+C-110,,,,,,,,,,,,,,
+W-110,Intercambio de calor,Uso de agua para enfriamiento,Generación de aguas residuales contaminantes,3.0,3.0,3.0,3,81,Si,>10,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+W-120,Intercambio de calor,Uso de agua para enfriamiento,Generación de aguas residuales contaminantes,3.0,3.0,3.0,3,81,Si,>10,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+K-110,Absorber HCl en agua,Uso de agua para proceso de absorción,Consumo de agua para proceso de absorción,3.0,3.0,3.0,3,81,Si,>10,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo.",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+K-110,,Gases de HCl tóxicos que se emiten a la atmosfera,Generación de gases contaminantes,3.0,3.0,3.0,5,135,Si,>10,"Implementar medidores de presión, control de presión, válvula de control, válvula de alivio. Análisis químico de la atmosfera laboral, planes de mantenimiento y monitoreo, ventilación y señalética adecuadas. ",SGA,"LGEEPA, Reglamento LGEEPA (Atmósfera), NOM-043-SEMARNAT-1993","1. Licencia Ambiental Única (LAU)
+2. Cédula de Operación Anual (COA)
+3. Monitoreo de emisiones a la atmósfera"
+K-110,,Uso de empaque para el proceso de absorción,Generación de residuos peligrosos,3.0,1.0,3.0,Depende de los artículos de la LGPGIR,18,Si,>10,"Plan de mantenimiento y monitoreo de empaque, plan de manejo de residuos, almacen de residuos, ",SGA,LGPGIR,"Plan de manejo de residuos, almacen, contrato con empresa que se encarga del transporte y disposición de residuos. Análisis químico de compatibilidad de residuos en el almacen. "
+F-110,Filtrar residuos del HCl,Uso de material para filtración,Generación de residuos peligrosos,3.0,1.0,3.0,Depende de los artículos de la LGPGIR,18,Si,>10,"Plan de mantenimiento y monitoreo de empaque, plan de manejo de residuos, almacen de residuos, ",SGA,LGPGIR,"Plan de manejo de residuos, almacen, contrato con empresa que se encarga del transporte y disposición de residuos. Análisis químico de compatibilidad de residuos en el almacen. "
+F-110,,Uso de agua para filtrar,Generación de aguas residuales contaminantes,3.0,3.0,3.0,3,81,Si,>10,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+B-110,Almecenamiento de producto final,Generación de vapores de HCl,Contaminación del área de trabajo y intoxicación de los colaboradores.,3.0,1.0,1.0,5,15,Si,>10,"Agregar medidores de presión y flujo, control en cascada (presión-flujo), válvulas de control y de seguridad, planes de mantenimiento, bitácora de mantenimiento, implementación de brigadas (contra incendios, primeros auxilios), verificar rutas de evacuación. ",Mantenimiento,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+P-111,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>10,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-1997","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-112,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>11,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-1998","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-113,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>12,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-1999","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-114,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>13,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2000","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-115,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>14,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2001","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-116,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>15,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2002","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-117,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>16,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2003","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-118,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>17,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2004","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-119,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>18,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2005","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-120,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>19,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2006","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-121,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>20,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2007","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-122,Bombear HCl,Emisión de vapores de HCl,"Contaminación del área de trabajo, intoxicación de los colaboradores y explosiones.",3.0,2.0,1.0,7,42,Si,>10,"Agregar medidores de presión, temperatura y flujo, controladores de presión, temperatura y flujo, válvulas de control y de alivio. Planes de mantenimiento y monitoreo, bitácora de mantenimiento, implementación de brigadas (contra incendios y primeros auxilios), plan de simulacros, implementación de señalética para rutas de evacuación, análisis químico periódico de atmosfera laboral, plan de manejo de aguas. ",SGA,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+P-123,Bombear agua de servicio auxiliar,Generación de aguas residuales.,3,3.0,3.0,3.0,81,Si,>20,"Implementar medidores de flujo, controladores de flujo y válvula de control de flujo, plan de manejo de aguas, bitacora de mantenimiento y monitoreo, PTAR.",SGA,"NOM-001-SEMARNAT-2021, NOM-002-SEMARNAT-1996, NOM-003-SEMARNAT-2007","Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+P-124,Bombear HCl,Emisión de vapores de HCl,"Contaminación del área de trabajo, intoxicación de los colaboradores y explosiones.",3.0,2.0,1.0,7,42,Si,>10,"Agregar medidores de presión, temperatura y flujo, controladores de presión, temperatura y flujo, válvulas de control y de alivio. Planes de mantenimiento y monitoreo, bitácora de mantenimiento, implementación de brigadas (contra incendios y primeros auxilios), plan de simulacros, implementación de señalética para rutas de evacuación, análisis químico periódico de atmosfera laboral, plan de manejo de aguas. ",SGA,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+P-125,Bombear HCl,Emisión de vapores de HCl,"Contaminación del área de trabajo, intoxicación de los colaboradores y explosiones.",3.0,2.0,1.0,7,42,Si,>10,"Agregar medidores de presión, temperatura y flujo, controladores de presión, temperatura y flujo, válvulas de control y de alivio. Planes de mantenimiento y monitoreo, bitácora de mantenimiento, implementación de brigadas (contra incendios y primeros auxilios), plan de simulacros, implementación de señalética para rutas de evacuación, análisis químico periódico de atmosfera laboral, plan de manejo de aguas. ",SGA,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+V-111,Comprime Cl2,,,,,,,,,,,,,
+V-112,Comprime Cl2,,,,,,,,,,,,,
+V-113,Comprime H2 gas,,,,,,,,,,,,,
+V-114,Comprime H2 gas,,,,,,,,,,,,,
+V-115,Comprime H2/Cl2,,,,,,,,,,,,,
+V-116,Comprime H2/Cl2/HCL,,,,,,,,,,,,,
+V-117,Comprime H2/Cl2/HCL,,,,,,,,,,,,,
+V-118,Comprime H2/Cl2/HCL,,,,,,,,,,,,,
+V-119,Comprime H2/Cl2/HCL,,,,,,,,,,,,,

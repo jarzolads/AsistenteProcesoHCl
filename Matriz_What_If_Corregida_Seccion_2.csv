@@ -1,0 +1,50 @@
+Equipo,¿Qué pasaria si?,Consecuencia potencial,Controles/Mitigación,Legislación ,Requerimiento legal
+B-110,Incrementa la temmperatura por encima del Set Point,Formación de compuestos químicos secundarios y tóxicos,"Implementar control en cascada, temperatura (mestro)-flujo (esclavo). Válvulas de control de flujo para el agua de enfriamiento abierta al fallo. Planes de mantenimiento y monitoreo, bitácoras, formación de brigadas. ","NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015","1. Plan de atención a emergencias químicas
+2. Hojas de Datos de Seguridad (HDS)
+3. Brigadas de emergencia capacitadas"
+B-110,Inrementa la presión dentro del tanque ,"Emisión de cloro gas, formación de compuestos tóxicos. ","Agregar instrumentación para el control de presión (P-111, PT-111, PC-111), Válvula de control HF-112 abierta al fallo, válvula de seguridad, disco de roptura, alarma de presión alta. ","NOM-020-STPS-2011, NOM-028-STPS-2012, NOM-002-STPS-2010","1. Aviso de funcionamiento de Recipientes Sujetos a Presión
+2. Dictamen de Unidad de Verificación
+3. Pruebas no destructivas (END)"
+B-110,Disminuye el flujo en la corriente 2,Incremento peligroso de la temperatura del tanque y formación de compuestos químicos secundarios tóxicos.,"Implementar instrumentación y control de flujo (FI-111, FT-111, FC-111), alarma de flujo bajo. ","NOM-028-STPS-2012, NOM-030-STPS-2009, NOM-004-STPS-1999","1. Análisis de Riesgos de Proceso (ARP)
+2. Procedimiento de Administración de Cambios (MOC)
+3. Programa de mantenimiento preventivo documentado"
+B-110,Si falla la válvula de control HF-112,"Incrementa o disminuye la presión en B-110, incrmenta el flujo en la corriente 4, incrementa el flujo de cloro gas hacia R-110, cambiando la composición de la mezcla enviada al reactor. Incremento de presión en C-1110, formación de compuestos químicos secundarios tóxicos, disminución de la conversión de HCl en C-110.",,"NOM-020-STPS-2011, NOM-028-STPS-2012, NOM-002-STPS-2010","1. Aviso de funcionamiento de Recipientes Sujetos a Presión
+2. Dictamen de Unidad de Verificación
+3. Pruebas no destructivas (END)"
+B-110,Si falla el controlador de presión PC-111,,,"NOM-020-STPS-2011, NOM-028-STPS-2012, NOM-002-STPS-2010","1. Aviso de funcionamiento de Recipientes Sujetos a Presión
+2. Dictamen de Unidad de Verificación
+3. Pruebas no destructivas (END)"
+B-120,,,,,
+R-110,,,,,
+C-110,,,,,
+W-110,,,,,
+W-120,,,,,
+K-110,,,,,
+F-110,,,,,
+B-130,,,,,
+H-110,,,,,
+P-110,,,,,
+P-120,,,,,
+P-130,,,,,
+P-140,,,,,
+P-150,,,,,
+P-160,,,,,
+P-170,,,,,
+P-180,,,,,
+P-190,,,,,
+P-200,,,,,
+P-210,,,,,
+P-220,,,,,
+P-230,,,,,
+P-240,,,,,
+P-250,,,,,
+P-260,,,,,
+V-110,,,,,
+V-120,,,,,
+V-130,,,,,
+V-140,,,,,
+V-150,,,,,
+V-160,,,,,
+V-170,,,,,
+V-180,,,,,
+V-190,,,,,

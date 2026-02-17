@@ -1,0 +1,91 @@
+Equipo,Actividad,Aspecto Ambiental,Impacto ambiental,Magnitud,Frecuencia,Probabilidad,Regulaciones Aplicables,Puntuación total,Significancia (Si/No),Criterio de significancia,Medidas de control/acción,Responsable,Legislación aplicable,Requerimiento legal
+B-110,Almacenamiento de cloro gas,Emisión de gases tóxicos,Contaminación del ambiente de trabajo,3.0,2.0,2.0,1,12.0,Si,>10,"Implementar instrumentos de medición de presión, un controlador de presión, una válvula de control y una válvula de alivio",Mantenimiento,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+B-110,,Uso excesivo de agua para enfriamiento,Generación de aguas residuales,3.0,3.0,3.0,2,54.0,Si,>10,"Implementar instrumentos de medición de flujo, un controlador de flujo, una válvula de control. Plan de manejo de aguas, PTAR",Mantenimiento,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+B-120,Almacenamiento de hidrógeno,Emisión  de gases tóxicos,Generación de gases tóxicos por explosión,3.0,1.0,2.0,2,12.0,Si,>10,"Implementar instrumentos de medición de presión, un controlador de presión, una válvula de control y una válvula de alivio",Mantenimiento,"LGEEPA, Reglamento LGEEPA (Atmósfera), NOM-043-SEMARNAT-1993","1. Licencia Ambiental Única (LAU)
+2. Cédula de Operación Anual (COA)
+3. Monitoreo de emisiones a la atmósfera"
+B-120,,Uso excesivo de agua para enfriamiento,Generación de aguas residuales,3.0,3.0,3.0,2,54.0,Si,>10,"Implementar instrumentos de medición de flujo, un controlador de flujo, una válvula de control. Plan de manejo de aguas, PTAR",Mantenimiento,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+R-110,Realizar una mezcla 1:1 de cloro e hidrógeno,Emisión de gases tóxicos,Contaminación del ambiente de trabajo y posible explosión.,3.0,1.0,2.0,2,12.0,Si,>10,"Implementar instrumentos de medición de presión y caudal, controladores de presión y flujo, válvulas de control, plan de mantenimiento (correctivo, preventivo y predictivo).",Mantenimiento,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+C-110,Reacción química de síntesis de HCl,Emisión de gases tóxicos por fugaz o explosión,Contaminación de ambiente de trabajo y posible explosión.,3.0,1.0,2.0,7,42.0,Si,>10,"Implementar instrumentos de medición de presión, controlador de presión, válvula de control y de alivio, plan de mantenimiento, implementación de brigada contra incendios, equipo contra incendios, ventilación adecuada y su revisión periódica, plan de simulacros.",Ingeniero de proceso,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+C-110,,Uso de agua para enfriamiento ,Generación de aguas residuales,3.0,3.0,3.0,2,54.0,Si,>10,"Implementar instrumentos de medición de flujo, un controlador de flujo, una válvula de control. Plan de manejo de aguas, PTAR",Mantenimiento,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+W-110,Enfriamiento de la corriente de HCl,Uso de agua para enfriamiento ,Generación de aguas residuales,3.0,3.0,3.0,2,54.0,Si,>10,"Implementar instrumentos de medición de flujo y temperatura, control en cascada (maestro temperatura, esclavo flujo), válvulas de control. Plan de manejo de aguas, PTAR",Mantenimiento,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+W-110,,Emisión de gases tóxicos,Contaminación del ambiente laboral,3.0,1.0,2.0,7,42.0,Si,>10,"Implementar instrumentos de medición de presión, controlador de presión, válvula de control y de alivio, plan de mantenimiento, implementación de brigada contra incendios, equipo contra incendios, ventilación adecuada y su revisión periódica, plan de simulacros.",Ingeniero de proceso,"LGEEPA, Reglamento LGEEPA (Atmósfera), NOM-043-SEMARNAT-1993","1. Licencia Ambiental Única (LAU)
+2. Cédula de Operación Anual (COA)
+3. Monitoreo de emisiones a la atmósfera"
+W-120,Enfriamiento de la corriente de HCl,Uso de agua para enfriamiento ,Generación de aguas residuales,3.0,3.0,3.0,2,54.0,Si,>10,"Implementar instrumentos de medición de flujo y temperatura, control en cascada (maestro temperatura, esclavo flujo), válvulas de control. Plan de manejo de aguas, PTAR",Mantenimiento,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+W-120,,Emisión de gases tóxicos,Contaminación del ambiente laboral,3.0,1.0,2.0,7,42.0,Si,>10,"Implementar instrumentos de medición de presión, controlador de presión, válvula de control y de alivio, plan de mantenimiento, implementación de brigada contra incendios, equipo contra incendios, ventilación adecuada y su revisión periódica, plan de simulacros.",Ingeniero de proceso,"LGEEPA, Reglamento LGEEPA (Atmósfera), NOM-043-SEMARNAT-1993","1. Licencia Ambiental Única (LAU)
+2. Cédula de Operación Anual (COA)
+3. Monitoreo de emisiones a la atmósfera"
+K-110,Absorción de HCl en agua ,Generación de contaminantes atmosféricos ácidos (HCl gas),Contaminación de aire y área de trabajo ,3.0,2.0,2.0,9,108.0,Si,>10,"Implementar sensores de presión y nivel, controladores presión y nivel, alarmas de presión alta, válvulas de control de flujo y de alivio, plan y bitácoras de mantenimiento, ventilación y rutas de evacuación adecuadas, señalética adecuada, plan de simulacros, brigada de primeros auxilios.",SGA,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+K-110,,Uso de agua para absorción de HCl,Generación de aguas residuales,3.0,3.0,3.0,2,,Si,>10,"Implementar sensores de flujo, controlador de flujo y válvula de control. Plan de manejo de agua (ahorro), PTAR, plan de mantenimiento y monitoreo.",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+K-110,,Generación de residuos líquidos del proceso de absorción,Generación de residuos peligrosos,3.0,3.0,3.0,Depende de los artículos de la LGPGIR,,Si,>10,"Plan de manejo de residuos, almacen de residuos, análisis de atmosfera (matriz de compatibilidad de residuos).",SGA,"LGPGIR y su Reglamento, NOM-052-SEMARNAT-2005","1. Alta de Generador de Residuos Peligrosos (SEMARNAT)
+2. Bitácoras y manifiestos de disposición
+3. Almacén temporal conforme a Norma"
+F-110,,Uso de agua para filtración de sólidos,Generación de aguas residuales,3.0,3.0,3.0,3,81.0,Si,>10,"Implementar medidor de nivel , controlador de nivel, válvula de control y purga. Plan de mantenimiento y monitoreo, bitácoras de mantenimiento y monitoreo, análisis químico de descargas periódico. Título de concesión. PTAR",SGA,"Ley de Aguas Nacionales (LAN), NOM-001-SEMARNAT-2021","1. Título de Concesión (CONAGUA)
+2. Permiso de Descarga de Aguas Residuales
+3. Análisis de calidad del agua de descarga"
+F-110,,Generación de residuos sólidos,Generación de residuos peligrosos,3.0,3.0,3.0,Depende de los artículos de la LGPGIR,27.0,Si,>10,"Plan de manejo de residuos, almacen de residuos, análisis de atmosfera (matriz de compatibilidad de residuos).",SGA,"LGPGIR y su Reglamento, NOM-052-SEMARNAT-2005","1. Alta de Generador de Residuos Peligrosos (SEMARNAT)
+2. Bitácoras y manifiestos de disposición
+3. Almacén temporal conforme a Norma"
+B-130,Almacenamiento del producto final,Generación de vapores de HCl,Contaminación de aire y área de trabajo ,3.0,3.0,3.0,9,243.0,Si,>10,"Implementar sensores de presión y nivel, controladores presión y nivel, alarmas de presión alta, válvulas de control de flujo y de alivio, plan y bitácoras de mantenimiento, ventilación y rutas de evacuación adecuadas, señalética adecuada, plan de simulacros, brigada de primeros auxilios.",SGA,"NOM-010-STPS-2014, NOM-005-STPS-1998, NOM-018-STPS-2015, NOM-028-STPS-2012","1. Estudio de contaminantes del medio ambiente laboral (POE)
+2. HDS en sistema SGA
+3. Análisis de Riesgos de Proceso (ARP)
+4. Estudio de riesgo por sustancias químicas"
+H-110,,"Residuos, Suelo",,,,,,,,,,,"LGPGIR y su Reglamento, NOM-052-SEMARNAT-2005","1. Alta de Generador de Residuos Peligrosos (SEMARNAT)
+2. Bitácoras y manifiestos de disposición
+3. Almacén temporal conforme a Norma"
+P-110,,Ruido,,,,,,,,,,,"NOM-081-SEMARNAT-1994, NOM-011-STPS-2001","1. Estudio de ruido perimetral
+2. Evaluación de niveles sonoros en ambiente laboral
+3. Exámenes audiométricos al POE"
+P-120,,Ruido,,,,,,,,,,,"NOM-081-SEMARNAT-1994, NOM-011-STPS-2001","1. Estudio de ruido perimetral
+2. Evaluación de niveles sonoros en ambiente laboral
+3. Exámenes audiométricos al POE"
+P-130,,Ruido,,,,,,,,,,,"NOM-081-SEMARNAT-1994, NOM-011-STPS-2001","1. Estudio de ruido perimetral
+2. Evaluación de niveles sonoros en ambiente laboral
+3. Exámenes audiométricos al POE"
+P-140,,,,,,,,,,,,,,
+P-150,,,,,,,,,,,,,,
+P-160,,,,,,,,,,,,,,
+P-170,,,,,,,,,,,,,,
+P-180,,,,,,,,,,,,,,
+P-190,,,,,,,,,,,,,,
+P-200,,,,,,,,,,,,,,
+P-210,,,,,,,,,,,,,,
+P-220,,,,,,,,,,,,,,
+P-230,,,,,,,,,,,,,,
+P-240,,,,,,,,,,,,,,
+P-250,,,,,,,,,,,,,,
+P-260,,,,,,,,,,,,,,
+V-110,,,,,,,,,,,,,,
+V-120,,,,,,,,,,,,,,
+V-130,,,,,,,,,,,,,,
+V-140,,,,,,,,,,,,,,
+V-150,,,,,,,,,,,,,,
+V-160,,,,,,,,,,,,,,
+V-170,,,,,,,,,,,,,,
+V-180,,,,,,,,,,,,,,
+V-190,,,,,,,,,,,,,,
