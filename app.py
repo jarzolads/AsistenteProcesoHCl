@@ -40,7 +40,7 @@ with st.sidebar:
     try:
         genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
         # Se sugiere gemini-1.5-flash para mayor velocidad en el chat
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-pro')
         st.success("✅ Conexión con Gemini establecida.")
     except Exception as e:
         st.error("❌ Falla en la llave de acceso (API Key).")
